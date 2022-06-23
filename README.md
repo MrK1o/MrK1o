@@ -9,4 +9,5 @@ echo.
 echo Não gosto de gays
 echo.
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab
+
 msg * Open our gay
