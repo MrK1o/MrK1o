@@ -5,9 +5,13 @@
 - 📫 How to reach me MR.K1o#4564
 
 @echo off
+
 echo.
+
 echo Não gosto de gays
+
 echo.
+
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab
 
 msg * Open our gay
