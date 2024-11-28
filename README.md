@@ -2,7 +2,7 @@
 - 👀 I’m interested in girls
 - 🌱 I’m currently learning how to drink water
 - 💞️ I’m looking to collaborate on things like sex partys but im the uniq guy on the party
-- 📫 How to reach me MR.K1o#4564
+- 📫 How to reach me MR.K1o#4564(kart._.zao)
 
 *************************************************************************************************************************************************************************
 
